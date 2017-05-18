@@ -1,0 +1,41 @@
+[Tue May 16 23:10:43.586619 2017] [mpm_prefork:notice] [pid 6140] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Tue May 16 23:10:43.586700 2017] [core:notice] [pid 6140] AH00094: Command line: 'apache2'
+[Tue May 16 23:11:11.823595 2017] [mpm_prefork:notice] [pid 6140] AH00169: caught SIGTERM, shutting down
+[Tue May 16 23:19:10.663658 2017] [mpm_prefork:notice] [pid 7891] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Tue May 16 23:19:10.663877 2017] [core:notice] [pid 7891] AH00094: Command line: 'apache2'
+[Tue May 16 23:20:31.368707 2017] [mpm_prefork:notice] [pid 7891] AH00169: caught SIGTERM, shutting down
+[Tue May 16 23:20:33.583163 2017] [mpm_prefork:notice] [pid 8444] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Tue May 16 23:20:33.583239 2017] [core:notice] [pid 8444] AH00094: Command line: 'apache2'
+[Tue May 16 23:20:35.548584 2017] [mpm_prefork:notice] [pid 8444] AH00169: caught SIGTERM, shutting down
+[Tue May 16 23:20:36.855920 2017] [mpm_prefork:notice] [pid 8960] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Tue May 16 23:20:36.856009 2017] [core:notice] [pid 8960] AH00094: Command line: 'apache2'
+[Tue May 16 23:20:50.388596 2017] [mpm_prefork:notice] [pid 8960] AH00169: caught SIGTERM, shutting down
+[Tue May 16 23:20:52.674505 2017] [mpm_prefork:notice] [pid 9617] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Tue May 16 23:20:52.674605 2017] [core:notice] [pid 9617] AH00094: Command line: 'apache2'
+[Tue May 16 23:21:02.106506 2017] [core:info] [pid 9625] [client 10.240.1.20:49600] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://bootstrap-personalization-joshlew.c9users.io/index.html
+[Tue May 16 23:23:36.780819 2017] [mpm_prefork:notice] [pid 9617] AH00169: caught SIGTERM, shutting down
+[Tue May 16 23:23:37.945469 2017] [mpm_prefork:notice] [pid 10144] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Tue May 16 23:23:37.945576 2017] [core:notice] [pid 10144] AH00094: Command line: 'apache2'
+[Tue May 16 23:23:43.098432 2017] [core:info] [pid 10151] [client 10.240.1.64:38890] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico
+[Wed May 17 00:03:14.006561 2017] [mpm_prefork:notice] [pid 10144] AH00169: caught SIGTERM, shutting down
+[Wed May 17 00:03:16.238532 2017] [mpm_prefork:notice] [pid 10951] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Wed May 17 00:03:16.238631 2017] [core:notice] [pid 10951] AH00094: Command line: 'apache2'
+[Wed May 17 00:21:58.220034 2017] [core:info] [pid 10960] [client 10.240.1.64:50602] AH00128: File does not exist: /home/ubuntu/workspace/styles.css, referer: https://bootstrap-personalization-joshlew.c9users.io/index.html
+[Wed May 17 00:24:02.506388 2017] [core:info] [pid 10961] [client 10.240.0.187:45758] AH00128: File does not exist: /home/ubuntu/workspace/styles.css, referer: https://bootstrap-personalization-joshlew.c9users.io/index.html
+[Wed May 17 00:24:19.638332 2017] [core:info] [pid 10959] [client 10.240.0.187:45982] AH00128: File does not exist: /home/ubuntu/workspace/style.css, referer: https://bootstrap-personalization-joshlew.c9users.io/index.html
+[Wed May 17 00:25:29.540071 2017] [core:info] [pid 10958] [client 10.240.1.17:40798] AH00128: File does not exist: /home/ubuntu/workspace/style.css, referer: https://bootstrap-personalization-joshlew.c9users.io/index.html
+[Wed May 17 00:28:19.882103 2017] [core:info] [pid 10962] [client 10.240.0.207:41448] AH00128: File does not exist: /home/ubuntu/workspace/style.css, referer: https://bootstrap-personalization-joshlew.c9users.io/index.html
+[Wed May 17 00:29:33.307270 2017] [core:info] [pid 10960] [client 10.240.1.17:44144] AH00128: File does not exist: /home/ubuntu/workspace/style.css, referer: https://bootstrap-personalization-joshlew.c9users.io/index.html
+[Wed May 17 00:42:39.506081 2017] [core:info] [pid 10961] [client 10.240.0.187:53396] AH00128: File does not exist: /home/ubuntu/workspace/style.css, referer: https://bootstrap-personalization-joshlew.c9users.io/index.html
+[Thu May 18 02:33:53.288816 2017] [core:warn] [pid 2542] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 18 02:33:53.294961 2017] [mpm_prefork:notice] [pid 2542] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Thu May 18 02:33:53.295024 2017] [core:notice] [pid 2542] AH00094: Command line: 'apache2'
+[Thu May 18 02:33:57.428616 2017] [mpm_prefork:notice] [pid 2542] AH00169: caught SIGTERM, shutting down
+[Thu May 18 02:33:59.493560 2017] [mpm_prefork:notice] [pid 3158] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Thu May 18 02:33:59.493649 2017] [core:notice] [pid 3158] AH00094: Command line: 'apache2'
+[Thu May 18 13:20:12.411346 2017] [core:warn] [pid 2095] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 18 13:20:12.415817 2017] [mpm_prefork:notice] [pid 2095] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Thu May 18 13:20:12.415855 2017] [core:notice] [pid 2095] AH00094: Command line: 'apache2'
+[Thu May 18 13:20:20.407657 2017] [mpm_prefork:notice] [pid 2095] AH00169: caught SIGTERM, shutting down
+[Thu May 18 13:20:22.502319 2017] [mpm_prefork:notice] [pid 3174] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Thu May 18 13:20:22.502384 2017] [core:notice] [pid 3174] AH00094: Command line: 'apache2'
